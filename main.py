@@ -1,17 +1,17 @@
 import streamlit as st
 
 # Title
-st.title("Your Name's Resume")
+st.title("My Resume")
 
 # Contact Information
 st.header("Contact Information")
-st.write("📧 Email: your.email@example.com")
-st.write("📞 Phone: (123) 456-7890")
-st.write("🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)")
+st.write("📧 Email: kulaiman.herman@gmail.com")
+st.write("📞 Phone: 012-8962091")
+st.write("🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohd-fakhrul-aiman-bin-herman-246809368)")
 
 # Education
 st.header("Education")
-st.write("🎓 Degree, University Name, Year")
+st.write("🎓 Degree, University Malaysia Kelantan (UMK), Year 4")
 
 # Work Experience
 st.header("Work Experience")
@@ -25,5 +25,5 @@ st.write("- Skill 2")
 
 # Projects
 st.header("Projects")
-st.write("🚀 Project Name: Description")
+st.write("🚀 EC2025: Description")
 
